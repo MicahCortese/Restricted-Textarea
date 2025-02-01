@@ -1,0 +1,21 @@
+label, textarea {
+    font-family: cursive;
+}
+
+.container {
+    display: block;
+}
+
+label {
+    font-size: 24px;
+}
+
+textarea {
+    width: 500px;
+    height: 300px;
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    resize: none;
+}
