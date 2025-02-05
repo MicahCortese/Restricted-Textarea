@@ -1,6 +1,7 @@
 body {
-    margin: 100px 35%;
+    margin-top: 100px;
     font-family: cursive;
+    text-align: center;
 }
 
 textarea {
@@ -16,5 +17,5 @@ textarea {
 #wordcount {
     position: absolute;
     top: 400px;
-    left: 990px;
+    left: 1150px;
 }

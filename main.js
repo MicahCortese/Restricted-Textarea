@@ -1,1 +1,3 @@
-let counter = document.getElementById("counter").innerHTML;
+var wordCount = document.getElementById("counter");
+
+console.log(wordCount);
