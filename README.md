@@ -2,4 +2,4 @@
 
 Project page URL: https://roadmap.sh/projects/restricted-textarea
 
-Project website: 
+Project website: https://micahcortese.github.io/Restricted-Textarea/
