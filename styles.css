@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
-textarea {
+#userinput {
     width: 500px;
     height: 250px;
     font-size: 24px;
@@ -15,7 +15,17 @@ textarea {
 }
 
 #wordcount {
-    position: absolute;
-    top: 400px;
-    left: 1150px;
+    position: relative;
+    bottom: 55px;
+    left: 215px;
+}
+
+#wordcount.limit {
+    color: red;
+}
+
+#userinput.limit {
+    border-color: red;
+    outline-color: red;
+    background-color: rgb(237, 194, 194);
 }
